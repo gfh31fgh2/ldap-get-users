@@ -1,2 +1,2 @@
 # ldap-get-users
-get users from ldap
+Simlpe script for getting users and their emails from ldap
